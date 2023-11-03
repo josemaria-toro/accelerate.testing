@@ -38,6 +38,8 @@ public class MyTest : Test<MyFixture>
 }
 ```
 ## Changes history
+**Version 6.0.0**
+- Changed version to a system based on .NET Core version supported.  
 **Version 1.0.0**
 - Include base class for tests.  
 - Include mixture class for expose services, providers, etc. and do activities at the begining and at the end of each test.  
